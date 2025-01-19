@@ -1,0 +1,15 @@
+D:\System_Design\Design_Patterns\Design_Patterns\obj\Debug\net6.0\Design_Patterns.csproj.AssemblyReference.cache
+D:\System_Design\Design_Patterns\Design_Patterns\obj\Debug\net6.0\Design_Patterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\System_Design\Design_Patterns\Design_Patterns\obj\Debug\net6.0\Design_Patterns.AssemblyInfoInputs.cache
+D:\System_Design\Design_Patterns\Design_Patterns\obj\Debug\net6.0\Design_Patterns.AssemblyInfo.cs
+D:\System_Design\Design_Patterns\Design_Patterns\obj\Debug\net6.0\Design_Patterns.csproj.CoreCompileInputs.cache
+D:\System_Design\Design_Patterns\Design_Patterns\bin\Debug\net6.0\Design_Patterns.exe
+D:\System_Design\Design_Patterns\Design_Patterns\bin\Debug\net6.0\Design_Patterns.deps.json
+D:\System_Design\Design_Patterns\Design_Patterns\bin\Debug\net6.0\Design_Patterns.runtimeconfig.json
+D:\System_Design\Design_Patterns\Design_Patterns\bin\Debug\net6.0\Design_Patterns.dll
+D:\System_Design\Design_Patterns\Design_Patterns\bin\Debug\net6.0\Design_Patterns.pdb
+D:\System_Design\Design_Patterns\Design_Patterns\obj\Debug\net6.0\Design_Patterns.dll
+D:\System_Design\Design_Patterns\Design_Patterns\obj\Debug\net6.0\refint\Design_Patterns.dll
+D:\System_Design\Design_Patterns\Design_Patterns\obj\Debug\net6.0\Design_Patterns.pdb
+D:\System_Design\Design_Patterns\Design_Patterns\obj\Debug\net6.0\Design_Patterns.genruntimeconfig.cache
+D:\System_Design\Design_Patterns\Design_Patterns\obj\Debug\net6.0\ref\Design_Patterns.dll
